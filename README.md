@@ -7,7 +7,7 @@
 
 ![Danilo Ewerton's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloewerton&show_icons=true&theme=dracula)
 
-### Tecnologias que utilizo
+<h3>Tecnologias que utilizo</h3>
 
 
 <div style="display: inline-block"></br<>
